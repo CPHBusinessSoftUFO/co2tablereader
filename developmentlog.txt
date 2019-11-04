@@ -1,0 +1,6 @@
+Mon 2019-11-04, 6:30
+Trying to profile it. Problem is the data-set is not large enough. Will try to read it 100 times.
+
+Mon 2019-11-04, 6:00
+Had data sample from yesterday.
+Looking for snippit to read text file in Java.
