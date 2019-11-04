@@ -1,3 +1,11 @@
+Mon 2019-11-04, 7:10
+A significant speed up by not splitting the lines, but reading it by hand.
+Done for now.
+
+Mon 2019-11-04, 6:50
+Trying out to read the total without using the split method
+Spend some time to find a method which could do it, but found none
+
 Mon 2019-11-04, 6:30
 Trying to profile it. Problem is the data-set is not large enough. Will try to read it 100 times.
 
